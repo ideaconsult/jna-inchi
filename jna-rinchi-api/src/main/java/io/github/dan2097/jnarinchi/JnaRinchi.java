@@ -381,7 +381,7 @@ public class JnaRinchi
 	 *  
 	 * @param rinchi input RInChi string
 	 * @return result RinchiDecompositionOutput object
-	 * @see #decomposeRinchi(String, String) 
+	 * @see #decomposeRinchi(String, String)
 	 */
 	public static RinchiDecompositionOutput decomposeRinchi(String rinchi) {
 		return decomposeRinchi(rinchi, "");
